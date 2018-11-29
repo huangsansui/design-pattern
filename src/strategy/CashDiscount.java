@@ -1,7 +1,7 @@
 package strategy;
 
 /**
- * Function:
+ * Function: a discount to pay
  *
  * @author: Huangqing
  * @Date: 2018/11/30
@@ -15,6 +15,11 @@ public class CashDiscount extends CashSuper {
         this.discount = discount;
     }
 
+    /**
+     * specific calculator method
+     * @param money
+     * @return
+     */
     @Override
     public double acceptCash(double money) {
         double realPrice = money * discount / 10;

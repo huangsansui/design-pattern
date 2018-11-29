@@ -1,7 +1,8 @@
 package strategy;
 
 /**
- * Function:
+ * Function: when the money more then meet price
+ *           reduce some money
  *
  * @author: Huangqing
  * @Date: 2018/11/30
@@ -18,6 +19,11 @@ public class CashReturn extends CashSuper {
         this.returnPrice = returnPrice;
     }
 
+    /**
+     * specific calculator method
+     * @param money
+     * @return
+     */
     @Override
     public double acceptCash(double money) {
         if (money >= meetPrice) {

@@ -1,7 +1,7 @@
 package strategy;
 
 /**
- * Function:
+ * Function: buy type enum
  *
  * @author: Huangqing
  * @Date: 2018/11/30

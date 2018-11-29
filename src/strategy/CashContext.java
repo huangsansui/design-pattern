@@ -1,7 +1,7 @@
 package strategy;
 
 /**
- * Function:
+ * Function: pay context
  *
  * @author: Huangqing
  * @Date: 2018/11/30

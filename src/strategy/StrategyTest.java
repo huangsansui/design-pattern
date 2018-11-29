@@ -1,7 +1,7 @@
 package strategy;
 
 /**
- * Function:
+ * Function: test demo
  *
  * @author: Huangqing
  * @Date: 2018/11/30

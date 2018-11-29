@@ -1,7 +1,7 @@
 package strategy;
 
 /**
- * Function:
+ * Function: abstract class
  *
  * @author: Huangqing
  * @Date: 2018/11/30
@@ -9,5 +9,10 @@ package strategy;
  */
 public abstract class CashSuper {
 
+    /**
+     * abstract calculator unit price
+     * @param money
+     * @return
+     */
     public abstract double acceptCash(double money);
 }
