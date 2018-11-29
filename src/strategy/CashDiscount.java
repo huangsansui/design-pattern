@@ -1,0 +1,23 @@
+package strategy;
+
+/**
+ * Function:
+ *
+ * @author: Huangqing
+ * @Date: 2018/11/30
+ * @since: JDK 1.8
+ */
+public class CashDiscount extends CashSuper {
+
+    private int discount;
+
+    public CashDiscount(int discount) {
+        this.discount = discount;
+    }
+
+    @Override
+    public double acceptCash(double money) {
+        double realPrice = money * discount / 10;
+        return realPrice;
+    }
+}
