@@ -3,6 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="55cbad2c-e343-42b6-9b7f-c0efcc47f5e2" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/desing-pattern/strategy/CashContext$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/desing-pattern/strategy/CashContext.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/desing-pattern/strategy/CashDiscount.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/desing-pattern/strategy/CashEnum.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/desing-pattern/strategy/CashNormal.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/desing-pattern/strategy/CashReturn.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/desing-pattern/strategy/CashSuper.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/desing-pattern/strategy/StrategyTest.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -355,12 +363,12 @@
       <option name="presentableId" value="Default" />
       <updated>1543506653291</updated>
       <workItem from="1543506656546" duration="3809000" />
-      <workItem from="1543511041868" duration="376000" />
+      <workItem from="1543511041868" duration="429000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4185000" />
+    <option name="totallyTimeSpent" value="4238000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
