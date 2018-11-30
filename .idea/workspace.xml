@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55cbad2c-e343-42b6-9b7f-c0efcc47f5e2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/factory/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/OperationAdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/OperationDiv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/OperationFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/OperationMul.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/OperationSub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/OperatorEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/SimpleCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/Operation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory/OperationDiv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/OperationDiv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory/OperationFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/OperationFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory/OperationMul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/OperationMul.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory/OperationSub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/OperationSub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory/OperatorEnum.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,26 +37,26 @@
       <file leaf-file-name="OperationDiv.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/factory/OperationDiv.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="57">
+              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OperationFactory.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="OperationMul.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/factory/OperationMul.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OperationFactory.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/factory/OperationFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OperatorEnum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/factory/OperatorEnum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+            <state relative-caret-position="57">
+              <caret line="3" column="54" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -75,17 +73,26 @@
       <file leaf-file-name="Operation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/factory/Operation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="379">
+              <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SimpleCalculator.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SimpleCalculator.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/factory/SimpleCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+            <state relative-caret-position="418">
+              <caret line="22" column="55" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Double.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/java/jdk1.8.0_171/src.zip!/java/lang/Double.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="191">
+              <caret line="536" column="25" selection-start-line="536" selection-start-column="25" selection-end-line="536" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -93,8 +100,8 @@
       <file leaf-file-name="OperationSub.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/factory/OperationSub.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="57">
+              <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -135,10 +142,13 @@
         <option value="$PROJECT_DIR$/src/strategy/CashContext.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/factory/OperationDiv.java" />
-        <option value="$PROJECT_DIR$/src/factory/Operation.java" />
-        <option value="$PROJECT_DIR$/src/factory/OperationFactory.java" />
         <option value="$PROJECT_DIR$/src/factory/OperatorEnum.java" />
+        <option value="$PROJECT_DIR$/src/factory/SimpleCalculator.java" />
+        <option value="$PROJECT_DIR$/src/factory/Operation.java" />
+        <option value="$PROJECT_DIR$/src/factory/OperationDiv.java" />
+        <option value="$PROJECT_DIR$/src/factory/OperationFactory.java" />
+        <option value="$PROJECT_DIR$/src/factory/OperationMul.java" />
+        <option value="$PROJECT_DIR$/src/factory/OperationSub.java" />
       </list>
     </option>
   </component>
@@ -343,15 +353,16 @@
       <workItem from="1543511041868" duration="671000" />
       <workItem from="1543511871356" duration="55000" />
       <workItem from="1543549138649" duration="322000" />
-      <workItem from="1543549597397" duration="273000" />
+      <workItem from="1543549597397" duration="3250000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5130000" />
+    <option name="totallyTimeSpent" value="8107000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -366,10 +377,10 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.32922733" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32991204" />
       <window_info anchor="right" id="Mybatis datasource" order="3" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3281075" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3281075" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26509887" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26509887" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -474,17 +485,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/factory/OperationSub.java">
+    <entry file="jar://D:/java/jdk1.8.0_171/src.zip!/java/lang/Double.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="191">
+          <caret line="536" column="25" selection-start-line="536" selection-start-column="25" selection-end-line="536" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/factory/SimpleCalculator.java">
+    <entry file="file://$PROJECT_DIR$/src/factory/OperatorEnum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        <state relative-caret-position="398">
+          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -495,31 +506,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/factory/OperationDiv.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/factory/OperatorEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/factory/Operation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="379">
+          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/factory/OperationFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        <state relative-caret-position="57">
+          <caret line="3" column="54" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/OperationMul.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/OperationDiv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/OperationSub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/SimpleCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="55" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
         </state>
       </provider>
     </entry>

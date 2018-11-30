@@ -1,7 +1,7 @@
 package factory;
 
 /**
- * Function:
+ * Function: div operator
  *
  * @author Huangqing
  * @date 2018/11/29 17:01

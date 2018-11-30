@@ -29,6 +29,10 @@ public abstract class Operation {
         this.numberB = numberB;
     }
 
+    /**
+     * get calculator result
+     * @return
+     */
     public abstract String getResult();
 
 }

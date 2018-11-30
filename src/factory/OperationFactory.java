@@ -1,7 +1,7 @@
 package factory;
 
 /**
- * Function:
+ * Function: factory create a specific operator method
  *
  * @author Huangqing
  * @date 2018/11/29 17:29
@@ -9,8 +9,8 @@ package factory;
  */
 public class OperationFactory {
 
-    public static Operation buildOperation(String operator) throws Exception {
-        switch (operator) {
+    public static Operation buildOperation(String type) throws Exception {
+        switch (type) {
             case "+": return new OperationAdd();
             case "-": return new OperationSub();
             case "*": return new OperationMul();
