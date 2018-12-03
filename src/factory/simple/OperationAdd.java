@@ -1,4 +1,4 @@
-package factory;
+package factory.simple;
 
 /**
  * Function: add operation

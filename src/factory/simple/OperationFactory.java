@@ -1,4 +1,4 @@
-package factory;
+package factory.simple;
 
 /**
  * Function: factory create a specific operator method
