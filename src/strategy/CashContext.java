@@ -16,7 +16,7 @@ public class CashContext {
             case NORMAL:
                 cs = new CashNormal();
                 break;
-            // 打8折
+            // 所以打8折
             case DISCOUNT:
                 cs = new CashDiscount(8);
                 break;
