@@ -1,7 +1,7 @@
 package facade;
 
 /**
- * Function:
+ * Function: facade pattern
  *
  * @author Huangqing
  * @date 2018/12/4 11:59
